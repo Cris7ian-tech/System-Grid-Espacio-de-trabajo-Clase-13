@@ -1,0 +1,9 @@
+ESTA ACTIVIDAD DE PRACTICA CORRESPONDE A LA CLASE 13 CSS GRID.
+
+css grid para maquetar las estructuras de paginas
+
+flex-box para reacomodar cajas y elementos.
+
+1- llamamos al div padre "container" en css y le decimos q vamos a trabajar con display: grid;
+2-especificamos la estructura: cantidad de columnas. grid template columns+grid template row y un gap.
+3-
