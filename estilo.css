@@ -1,6 +1,6 @@
 @font-face {
     font-family: tipografia;
-    src: url(Fuentes/Ubuntu-Bold.ttf);
+    src: url(Ubuntu-Bold.ttf);
     
 }
 
@@ -68,9 +68,8 @@ body {
     justify-content: space-between;
     
 
-    text-shadow: 
-    1px 1px 0 rgb(0, 0, 0),
-    1px 1px 0 rgb(0, 0, 0);
+    text-shadow: 12px -24px 20px black
+    
 }
 
 .grid-item, p {
@@ -83,15 +82,12 @@ body {
 
 .titulo {
     font-size: 3.5rem;
-    font-weight: 600;
+    font-weight: 800;
     text-transform: uppercase;
     color: rgb(244, 4, 52);
     
-    text-shadow: 
-    -1px -1px 0 rgb(0, 0, 0),
-    1px 1px 0 rgb(255, 255, 255),
-    -1px -1px 0 rgb(0, 0, 0),
-    1px 1px 0 rgb(242, 237, 237);
+    text-shadow: 12px -24px 20px black;
+
 }
 
 
